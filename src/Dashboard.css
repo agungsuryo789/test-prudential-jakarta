@@ -1,0 +1,15 @@
+.logoutButton{
+    text-align: right;
+}
+.productCard{
+    margin-top: 60px;
+}
+.colCard{
+    margin-bottom: 15px;
+}
+.divCard{
+    position: relative;
+}
+.cardImg{
+    height: 150px;
+}
